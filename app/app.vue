@@ -6,7 +6,7 @@
       <NuxtLink to="/">Home</NuxtLink> ·
       <NuxtLink to="/ydelse/nyheder">Nyheder (standard useAsyncData)</NuxtLink>
       · <NuxtLink to="/ydelse/case">Case ("in-memory client cache")</NuxtLink> ·
-      <NuxtLink to="/ydelse/artikel">Artikel (C)</NuxtLink> ·
+      <NuxtLink to="/ydelse/artikel">Artikler (standard useFetch)</NuxtLink> ·
       <NuxtLink to="/usefetch">useFetch (A5)</NuxtLink>
     </nav>
     <hr />

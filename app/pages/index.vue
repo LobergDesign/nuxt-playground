@@ -4,5 +4,6 @@
 
     <NyhederCount />
     <CasesCount />
+    <ArtiklerCount />
   </main>
 </template>
